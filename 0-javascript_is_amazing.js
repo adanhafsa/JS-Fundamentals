@@ -1,3 +1,3 @@
-const mylet = "Javascript is amazing";
+const mylet = "JavaScript is amazing";
 console.log(mylet);
 
